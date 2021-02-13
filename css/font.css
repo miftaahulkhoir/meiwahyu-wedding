@@ -1,0 +1,69 @@
+@font-face {
+  font-family: Midnight;
+  src: url(../asset/fonts/AmostelySignature.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: Nunito;
+  src: url(../asset/fonts/Nunito-Regular.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: Nunito;
+  src: url(../asset/fonts/Nunito-Bold.ttf) format("truetype");
+  font-display: swap;
+  font-weight: 700;
+}
+@font-face {
+  font-family: Sacramento;
+  src: url(../asset/fonts/Sacramento-Regular.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: Playfair;
+  src: url(../asset/fonts/PlayfairDisplay-Regular.otf);
+  font-display: swap;
+}
+@font-face {
+  font-family: Playfair;
+  src: url(../asset/fonts/PlayfairDisplay-Bold.otf);
+  font-display: swap;
+  font-weight: 700;
+}
+@font-face {
+  font-family: Dynalight;
+  src: url(../asset/fonts/Dynalight-Regular.ttf);
+  font-display: swap;
+}
+@font-face {
+  font-family: Lavanderia;
+  src: url(../asset/fonts/Lavanderia\ Regular.otf);
+  font-display: swap;
+}
+@font-face {
+  font-family: Great;
+  src: url(../asset/fonts/GreatVibes-Regular.ttf);
+  font-display: swap;
+}
+@font-face {
+  font-family: Beauty;
+  src: url(../asset/fonts/BeautyDemo.ttf);
+  font-display: swap;
+}
+@font-face {
+  font-family: Trajan;
+  src: url(../asset/fonts/JosefinSans-Regular.ttf);
+  font-display: swap;
+}
+@font-face {
+  font-family: Trajan;
+  src: url(../asset/fonts/JosefinSans-Bold.ttf);
+  font-display: swap;
+  font-weight: 700;
+}
+@font-face {
+  font-family: Trajan;
+  src: url(../asset/fonts/JosefinSans-Light.ttf);
+  font-display: swap;
+  font-weight: 300;
+}
