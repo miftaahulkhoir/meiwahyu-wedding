@@ -81,7 +81,7 @@ body {
 }
 .thumb-icon > img {
   width: auto;
-  height: 150px;
+  height: 250px;
   border-radius: 50%;
   border: 3px solid #fff;
   clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
